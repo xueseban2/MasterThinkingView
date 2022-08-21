@@ -1,0 +1,2 @@
+# MasterThinkingView
+Master Thinking
